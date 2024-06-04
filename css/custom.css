@@ -1,2 +1,15 @@
 
 /** ADD YOUR AWESOME CODES HERE **/
+.services-inner-box{
+    transition: all 0.36s ease-in;
+}
+.services-inner-box:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.footer-links a svg{
+    transition: all 0.36s ease-in;
+}
+.footer-links a svg:hover{
+    box-shadow: rgb(137, 137, 137) 0px 5px 15px;
+    scale: 1.09;
+}
