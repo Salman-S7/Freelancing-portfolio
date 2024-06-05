@@ -1,6 +1,6 @@
 
 /** ADD YOUR AWESOME CODES HERE **/
-.services-inner-box{
+.services-inner-box, .gallery-single{
     transition: all 0.36s ease-in;
 }
 .services-inner-box:hover{
@@ -12,4 +12,7 @@
 .footer-links a svg:hover{
     box-shadow: rgb(137, 137, 137) 0px 5px 15px;
     scale: 1.09;
+}
+.gallery-single:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
